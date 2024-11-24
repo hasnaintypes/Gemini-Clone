@@ -1,6 +1,3 @@
-Here’s the corrected version of your `README.md` with proper Markdown syntax:
-
-```markdown
 # Gemini Clone - AI Chatbot
 
 ![Gemini Chatbot](public/gemini-clone.png)
