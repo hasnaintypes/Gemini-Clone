@@ -1,4 +1,4 @@
-Here’s the updated `README.md` for your Gemini LLM chatbot project:  
+Here’s the corrected version of your `README.md` with proper Markdown syntax:
 
 ```markdown
 # Gemini Clone - AI Chatbot
